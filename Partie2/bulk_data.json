@@ -1,0 +1,8 @@
+{ "index": { "_index": "nouvel_index", "_id": "1" } }
+{ "titre": "Nouveau titre", "description": "Ceci est une nouvelle description.", "quantité": 15, "date_creation": "15-06-2024" }
+{ "index": { "_index": "nouvel_index", "_id": "2" } }
+{ "titre": "Deuxième document modifié", "description": "C'est le deuxième document mais modifié.", "quantité": 8, "date_creation": "16-06-2024" }
+{ "index": { "_index": "nouvel_index", "_id": "3" } }
+{ "titre": "Document modifié", "description": "Voici un document qui a été modifié.", "quantité": 20, "date_creation": "17-06-2024" }
+{ "index": { "_index": "nouvel_index", "_id": "4" } }
+{ "titre": "Quatrième document mis à jour", "description": "Ceci est le quatrième document mis à jour.", "quantité": 25, "date_creation": "18-06-2024" }

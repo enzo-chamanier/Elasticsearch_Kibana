@@ -1,0 +1,10 @@
+{ "index": { "_index": "flights", "_id": "1" } }
+{ "prix_moyen": 360, "statut": "actif", "meteo_depart": "soleil", "meteo_arrivee": "nuageux", "pays_depart": "France", "pays_arrivee": "Italie", "date_vol": "2024-04-20" }
+{ "index": { "_index": "flights", "_id": "2" } }
+{ "prix_moyen": 410, "statut": "annulé", "meteo_depart": "pluie", "meteo_arrivee": "pluie", "pays_depart": "Espagne", "pays_arrivee": "Allemagne", "date_vol": "2024-04-25" }
+{ "index": { "_index": "flights", "_id": "3" } }
+{ "prix_moyen": 430, "statut": "actif", "meteo_depart": "nuageux", "meteo_arrivee": "soleil", "pays_depart": "Italie", "pays_arrivee": "France", "date_vol": "2024-05-01" }
+{ "index": { "_index": "flights", "_id": "4" } }
+{ "prix_moyen": 330, "statut": "actif", "meteo_depart": "soleil", "meteo_arrivee": "pluie", "pays_depart": "Allemagne", "pays_arrivee": "Espagne", "date_vol": "2024-05-10" }
+{ "index": { "_index": "flights", "_id": "5" } }
+{ "prix_moyen": 390, "statut": "annulé", "meteo_depart": "nuageux", "meteo_arrivee": "pluie", "pays_depart": "France", "pays_arrivee": "Portugal", "date_vol": "2024-05-15" }
